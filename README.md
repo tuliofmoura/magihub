@@ -12,7 +12,7 @@
 
 Os decks abaixo e suas **respectivas variações** estão <span style="font-size:1.5em;">BANIDOS</span> do torneio essa semana.
 
-⛔️ Não adianta chegar lá com um Barreiras sem combo, um Gruul Ramp sem os LD, um mono blue sem Delver, etc., todos esses entram na questão das variações e eles estão banidos da mesma forma!
+⛔️ Não adianta chegar lá com um Barreiras sem combo, um Gruul Ramp sem os LD, um Mono Blue Terror sem o Delver, etc., todos esses entram na questão das variações e eles estão banidos da mesma forma!
 
 ![invalid decks](./invalid_decks.png)
 
